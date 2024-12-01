@@ -22,6 +22,8 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+![Demo-bitfit2_updated](https://github.com/user-attachments/assets/21bb7447-19b9-4474-b47e-4f5dbfb1be38)
+
 
 <img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 GIF created with [Giphy](https://imgur.com/a/fQXVbpY). 
